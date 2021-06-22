@@ -5,8 +5,9 @@ can boost trading efficiency. Moreover, it would be best if there's an add-on pr
 This post details how to build a stock visualizing and predicting site with twelvedata and streamlit.
 
 ## Contents
-* How to Start
-* Features
+* How to Start (build process)
+* Details of Approach
+* Results
 * References 
 
 ## How to Start (build process)
